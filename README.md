@@ -17,7 +17,7 @@ O repositório está organizado da seguinte forma:
 
 Aqui está uma lista dos problemas que já resolvi:
 
-- **#1 - Two Sum** - [Solução](/1-two-sum/)
+- **#1 - Two Sum** - [Solução](/twosum/)
 - **#2 - Add Two Numbers** - [Solução](/2-add-two-numbers/)
 - **#3 - Longest Substring Without Repeating Characters** - [Solução](/3-longest-substring-without-repeating-characters/)
 - **#4 - Median of Two Sorted Arrays** - [Solução](/4-median-of-two-sorted-arrays/)
